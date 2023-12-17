@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928878699500",
+    "project_id": "loqui-2b73a",
+    "storage_bucket": "loqui-2b73a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928878699500:android:defe5e799e86a7edfa16c9",
+        "android_client_info": {
+          "package_name": "ensa.ma.loqui"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAbci6G8yK-VjkNYQFuy9DNDijfJT7h8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
